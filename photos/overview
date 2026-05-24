@@ -1,0 +1,11 @@
+This folder contains development and assembly images for the star tracker project.
+
+Included images show:
+- The completed mechanical structure
+- Close-up views of the rotating turntable system
+- Breadboard testing and temporary electronics setups
+- The soldered circuit/perfboard assembly
+- ESP32 testing and power verification
+- Conceptual diagrams for the altitude rotation system
+
+These images are intended to document the prototyping and construction process rather than serve as formal assembly instructions.
