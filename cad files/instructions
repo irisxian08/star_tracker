@@ -1,0 +1,21 @@
+This folder contains the CAD and printable files for the mechanical structure of the star tracker.
+
+Most of the printed parts are designed to work together as a single rotating turntable assembly rather than as isolated components. The exact interaction between parts is easier to understand from the assembly images and the final mounted system shown elsewhere in the repository.
+
+The primary mechanical subsystems are:
+- A rotating azimuth turntable assembly
+- An altitude rotation mount
+- A separate laser holder attachment
+- Structural support and electronics housing components
+
+Printing Notes:
+- Parts were printed on Bambu Lab X1 Carbon and A1 printers.
+- Different printers may produce slightly different tolerances or fit.
+- Some sanding or small dimensional adjustments may be necessary.
+
+Laser Note:
+- The laser used in this project is fairly old and may no longer be commonly available.
+- Please verify that replacement lasers are similar in size before printing the laser holder.
+- If needed, the holder can be adjusted easily in Tinkercad or another CAD editor.
+
+Most files are provided as STL files for printing. If you wish to edit a part, Tinkercad is very useful when editing imported STL files.
