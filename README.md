@@ -200,6 +200,12 @@ Mechanical fit should therefore always be tested before fully assembling the str
 
 ---
 
+## Using the tracker
+
+The current tracker is set up so that there are two "dials" to help with coordinate verification. The full ring is horizontal (checks azimuth) and the other quarter ring is vertical (checks altitude). A description of the system and how to use it can be found here: [Instructions](using the error-checking system.docx). 
+
+---
+
 ## Current Issues
 
 The project is currently incomplete due to unresolved hardware reliability problems.
